@@ -318,4 +318,8 @@ footer{
     #menu .slide a{
         text-align: center;
     }
+    
+    #menu .slide a li:nth-child(4){
+        margin-bottom: 100px;
+    }
 }
